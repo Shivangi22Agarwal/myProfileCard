@@ -103,14 +103,14 @@ li{
 /*a:hover .fa{
   transform: rotateY(360deg);
 }*/
-@media all screen and (max-height:600px){
+@media all screen and (max-width:600px){
   .card{
     margin-top:auto;
     margin-bottom:auto;
     display:flex;
     justify-content:center;
     align-items:center;
-    width:150px;
-    height:200px;
+    width:120px;
+    height:160px;
   }
 }
