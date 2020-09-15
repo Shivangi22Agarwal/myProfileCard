@@ -76,7 +76,7 @@ body{
 }
 .face2 h3{
   font-family:serif;
-  font-size:20px;
+  font-size:17px;
   text-align:center;
 }
 .icons{
@@ -105,11 +105,8 @@ li{
 }*/
 @media all screen and (max-width:600px){
   .card{
-    margin-top:auto;
+    margin-top:40px;
     margin-bottom:auto;
-    display:flex;
-    justify-content:center;
-    align-items:center;
     width:120px;
     height:160px;
   }
